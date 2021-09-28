@@ -1,0 +1,15 @@
+{
+    "data": {
+        "staffId": 1,
+        "type": "説明会",
+        "question": "魅力は何ですか？",
+        "feedback": "デザインが良い点",
+        "user": [
+            {
+                "name": "回答者 太郎",
+                "sex": "male",
+                "note": "foo bar"
+            }
+        ]
+    }
+}
