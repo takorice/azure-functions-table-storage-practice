@@ -1,4 +1,4 @@
-azure-functions-table-storage-practice
+# azure-functions-table-storage-practice
 
 ## 概要
 Azure Functions にて、Azure Table Storage へ POST、GET する API のサンプル。
